@@ -1,0 +1,10 @@
+INFO 2026-07-01 09:00:01 Server started successfully
+INFO 2026-07-01 09:01:15 User sankalpa logged in
+WARNING 2026-07-01 09:05:42 High memory usage detected
+ERROR 2026-07-01 09:07:03 Failed to connect to database
+INFO 2026-07-01 09:10:00 Retrying database connection
+INFO 2026-07-01 09:10:05 Database connection restored
+WARNING 2026-07-01 09:15:30 Disk space running low
+ERROR 2026-07-01 09:20:11 Unhandled exception in module X
+INFO 2026-07-01 09:25:00 User sankalpa logged out
+INFO 2026-07-01 09:30:00 Server shutting down
